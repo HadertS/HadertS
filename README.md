@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sammi</h1>
 <h3 align="center">A passionate full stack graduate from Brighton, England currently looking for work</h3>
 
-- 🌱 I’m currently learning **Laravel**, **Godot C#** and **Embedded C**
+- 🌱 I’m currently learning **Laravel**, **C#**, **Embedded C** and **GDScript**
 
 - 👨‍💻 All of my projects are available at [https://haderts.github.io/](https://haderts.github.io/)
 
